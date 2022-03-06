@@ -127,4 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+env/
 mlruns/
+data.zip
+*.jpg
+*.docs
+*.txt

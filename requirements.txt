@@ -5,3 +5,4 @@ mlflow
 tensorflow 
 notebook  
 tqdm
+scikit_image
