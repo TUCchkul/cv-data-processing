@@ -11,7 +11,7 @@ LIST_OF_REQUIREMENTS=[]
 setup(
     name=SRC_REPO,
     version="0.0.1",
-    author="Kulakirti Chakma",
+    author="K C",
     descriptions="A small project for mlflow",
     long_discriptions=long_description,
     long_description_content_type="text/markdown",
